@@ -7,3 +7,4 @@ ghdhafh
 hahahahhahahahhahahaahah!!!!
 sakjfdhfkj  HUYUE
 kshafXOXH LALALAAL
+Creating a new branch is quick AND simple.
