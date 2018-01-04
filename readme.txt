@@ -7,4 +7,8 @@ ghdhafh
 hahahahhahahahhahahaahah!!!!
 sakjfdhfkj  HUYUE
 kshafXOXH LALALAAL
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
